@@ -116,3 +116,4 @@ mongodb:
     rootPassword: 'mongoRootPass'
 ```
 Then commit and push your changes.
+Made additional changes to the readme 
